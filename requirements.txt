@@ -3,3 +3,4 @@ termcolor
 tabulate
 fake_useragent
 better_proxy
+aiohttp_socks
