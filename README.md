@@ -1,6 +1,11 @@
-# layerzero-airdrop-checker
+# AIRDROP-CHECKER LAYERZERO
 
-![Screenshot](link.png)  
+![Screenshot](https://i.imgur.com/99y7Qn2.png)  
+
+> [!NOTE]
+> Скриншот делался на тестовых запросах, информация на нем фейковая
+
+# Как запустить
 
 1. Установите [**Python 3.11**](https://www.python.org/downloads/release/python-3110/)  
 2. Откройте `cmd.exe`
