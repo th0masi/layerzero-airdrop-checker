@@ -1,4 +1,4 @@
-# AIRDROP-CHECKER LAYERZERO
+# AIRDROP CHECKER LAYERZERO
 
 ![Screenshot](https://i.imgur.com/99y7Qn2.png)  
 
